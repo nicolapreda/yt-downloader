@@ -1,3 +1,5 @@
-# Syncro-Tube
+# YT-Downloader by diskxo\_
 
-Download automatico di Playlist su Youtube
+Funzioni
+*Download MP3 Da YouTube
+*Downlaod MP4 Da Youtube
