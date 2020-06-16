@@ -1,2 +1,3 @@
-# yt-downloader
- Download YT videos in .mp4 and .mp3 format
+# Syncro-Tube
+
+Download automatico di Playlist su Youtube

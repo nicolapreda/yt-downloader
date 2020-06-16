@@ -1,0 +1,32 @@
+C:\diskxo_\Visual Studio\Downloader MP3-MP4\bin\Debug\Syncro-Tube.exe.config
+C:\diskxo_\Visual Studio\Downloader MP3-MP4\bin\Debug\Syncro-Tube.exe
+C:\diskxo_\Visual Studio\Downloader MP3-MP4\bin\Debug\Syncro-Tube.pdb
+C:\diskxo_\Visual Studio\Downloader MP3-MP4\bin\Debug\Bunifu_UI_v1.52.dll
+C:\diskxo_\Visual Studio\Downloader MP3-MP4\bin\Debug\Google.Apis.Auth.dll
+C:\diskxo_\Visual Studio\Downloader MP3-MP4\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\diskxo_\Visual Studio\Downloader MP3-MP4\bin\Debug\Google.Apis.Core.dll
+C:\diskxo_\Visual Studio\Downloader MP3-MP4\bin\Debug\Google.Apis.dll
+C:\diskxo_\Visual Studio\Downloader MP3-MP4\bin\Debug\Google.Apis.PlatformServices.dll
+C:\diskxo_\Visual Studio\Downloader MP3-MP4\bin\Debug\Google.Apis.YouTube.v3.dll
+C:\diskxo_\Visual Studio\Downloader MP3-MP4\bin\Debug\libvideo.dll
+C:\diskxo_\Visual Studio\Downloader MP3-MP4\bin\Debug\MediaToolkit.dll
+C:\diskxo_\Visual Studio\Downloader MP3-MP4\bin\Debug\Newtonsoft.Json.dll
+C:\diskxo_\Visual Studio\Downloader MP3-MP4\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\diskxo_\Visual Studio\Downloader MP3-MP4\bin\Debug\Google.Apis.pdb
+C:\diskxo_\Visual Studio\Downloader MP3-MP4\bin\Debug\Google.Apis.xml
+C:\diskxo_\Visual Studio\Downloader MP3-MP4\bin\Debug\Google.Apis.Auth.pdb
+C:\diskxo_\Visual Studio\Downloader MP3-MP4\bin\Debug\Google.Apis.Auth.xml
+C:\diskxo_\Visual Studio\Downloader MP3-MP4\bin\Debug\Google.Apis.Core.pdb
+C:\diskxo_\Visual Studio\Downloader MP3-MP4\bin\Debug\Google.Apis.Core.xml
+C:\diskxo_\Visual Studio\Downloader MP3-MP4\bin\Debug\Google.Apis.YouTube.v3.pdb
+C:\diskxo_\Visual Studio\Downloader MP3-MP4\bin\Debug\Google.Apis.YouTube.v3.xml
+C:\diskxo_\Visual Studio\Downloader MP3-MP4\bin\Debug\Newtonsoft.Json.xml
+C:\diskxo_\Visual Studio\Downloader MP3-MP4\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\diskxo_\Visual Studio\Downloader MP3-MP4\obj\Debug\YT Downloader.csprojAssemblyReference.cache
+C:\diskxo_\Visual Studio\Downloader MP3-MP4\obj\Debug\Syncro_Tube.Form1.resources
+C:\diskxo_\Visual Studio\Downloader MP3-MP4\obj\Debug\Syncro_Tube.Properties.Resources.resources
+C:\diskxo_\Visual Studio\Downloader MP3-MP4\obj\Debug\YT Downloader.csproj.GenerateResource.cache
+C:\diskxo_\Visual Studio\Downloader MP3-MP4\obj\Debug\YT Downloader.csproj.CoreCompileInputs.cache
+C:\diskxo_\Visual Studio\Downloader MP3-MP4\obj\Debug\YT Downloader.csproj.CopyComplete
+C:\diskxo_\Visual Studio\Downloader MP3-MP4\obj\Debug\Syncro-Tube.exe
+C:\diskxo_\Visual Studio\Downloader MP3-MP4\obj\Debug\Syncro-Tube.pdb
