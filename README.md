@@ -1,15 +1,14 @@
 # YT-Downloader by diskxo\_
 
-Funzioni:
+#Functions:
 
-- Download MP3 Da YouTube
-- Downlaod MP4 Da Youtube
+- Download MP3 YouTube
+- Downlaod MP4 Youtube
 
 ---
 
-#Pacchetti NuGet utilizzati
+#NuGet packages used
 
-- Google.Apis.YouTube.v3
 - VideoLibrary
 - Media Toolkit
 - Google.Apis
